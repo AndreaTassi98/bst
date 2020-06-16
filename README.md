@@ -2,7 +2,10 @@
 University C++ project that implements a template binary search tree and tests it.
 
 ## Guidelines
-[Esame-200420.pdf](Esame-200420.pdf)
+[Esame-200420](Esame-200420.pdf)
+
+## Report
+[Relazione Progetto bst](bst/Relazione Progetto bst.pdf)
 
 ## Building
-From Command Line, in the same directory as [Makefile](src/Makefile), run command `make`.
+From Command Line, in the same directory as [Makefile](bst/Makefile), run command `make`.
